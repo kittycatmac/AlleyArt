@@ -1,0 +1,79 @@
+.artistProfile {
+	background-image: url(./image/old-wall.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+#title-a {
+	color: black;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: Bold;
+	text-align: center;
+	font-size: 78px;
+	padding: 5px;
+	margin-bottom: 25px;
+	text-shadow: 2px 2px #AF2B16;
+	text-transform: uppercase;
+}
+
+h6 {
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: Bold;
+	text-align: center;
+	font-size: 40px;
+	padding-top: 25px;
+	text-shadow: 2px 2px #AF2B16;
+}
+
+#PP {
+	font-family: 'Ubuntu', sans-serif;
+	text-align: center;
+	padding-left: 10%;
+	padding-right: 10%;
+	font-size: 20px;
+}
+
+.info-name {
+	height: 50px;
+	width: 90%;
+	background-color: #388e3c;
+	color: #FFFAF4;
+	border: 2px;
+	border-radius: 5px;
+	margin: auto;
+}
+
+.info-about {
+	height: auto;
+	width: 90%;
+	background-color: #388e3c;
+	color: #FFFAF4;
+	border: 2px;
+	border-radius: 5px;
+	margin: auto;
+	font-size: 30px;
+}
+
+.info-contact {
+	height: 30px;
+	width: 90%;
+	background-color: #388e3c;
+	color: #FFFAF4;
+	border: 2px;
+	border-radius: 5px;
+	margin: auto;
+	font-size: 30px;
+}
+
+
+.info-email {
+	height: 30px;
+	width: 90%;
+	background-color: #388e3c;
+	color: #FFFAF4;
+	border: 2px;
+	border-radius: 5px;
+	margin: auto;
+	font-size: 30px;
+}

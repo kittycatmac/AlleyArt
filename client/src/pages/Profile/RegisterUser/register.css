@@ -1,0 +1,23 @@
+.userform {
+	font-family: 'Cuprum', sans-serif;
+	padding: 15px;
+	font-size: 25px;
+	opacity: .75;
+	filter: alpha(opacity=50);
+}
+
+.title {
+	font-size: 48px;
+	font-family: 'Major Mono Display', monospace;
+	font-weight: bold;
+	text-align: center;
+	color: #388e3c;
+}
+
+label {
+color: #211E1E;
+}
+
+.input-field  {
+background-color: #DADADA;
+}

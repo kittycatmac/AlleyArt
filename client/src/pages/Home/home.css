@@ -1,0 +1,39 @@
+#title {
+	font-family: 'Major Mono Display', monospace;
+	text-align: center;
+	text-shadow: 2px 2px green;
+}
+
+#title-r {
+	font-family: 'Major Mono Display', monospace;
+	text-align: center;
+	text-shadow: 2px 2px green;
+}
+
+/* .row-container {
+	height: 500px;
+	opacity: .8;
+	filter: alpha(opacity=50);
+	margin: 25px 25px;
+	padding: 20px;
+	width: 90%;
+} */
+
+.noResults {
+	font-size: 80px;
+	color: black;
+	height: auto;
+	width: auto;
+	padding: 10px;
+	text-shadow: 2px 2px #AF2B16;
+}
+
+.search-container {
+	background-image: url(./img/homepic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 20px;
+	height: 500px;
+	margin: 30px 30px 0px 30px;
+	/* background-position: 'center center'; */
+}

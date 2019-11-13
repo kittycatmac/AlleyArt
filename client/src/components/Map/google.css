@@ -1,0 +1,17 @@
+.gm-style h1 {
+	font-size: 14px;
+	/* font-family: Georgia, 'Times New Roman', Times, serif; */
+	color: #388e3c;
+	text-shadow: none;
+}
+
+.map {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  right: 0;
+	bottom: 0px;
+	width: 96%;
+	height: 360px;
+	
+}

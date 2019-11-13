@@ -1,0 +1,42 @@
+.input-field {
+	height: 50px;
+	background-color: #B4B5A1;
+} 
+
+#input-text {
+	color: #2196f3;
+}
+
+.button-search {
+	float: left;
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+  color:#388e3c;
+  opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+  color: #388e3c;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+  color: #388e3c;
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:hover, 
+input:-webkit-autofill:focus
+textarea:-webkit-autofill,
+textarea:-webkit-autofill:hover
+textarea:-webkit-autofill:focus,
+select:-webkit-autofill,
+select:-webkit-autofill:hover,
+select:-webkit-autofill:focus {
+	border: 2px solid #666666;
+	padding-left: 5px;
+	-webkit-text-fill-color:#B35900;
+	box-shadow: #CCCCCC;
+  -webkit-box-shadow: 0 0 0px 1000px #CCCCCC inset;
+  transition: background-color 5000s ease-in-out 0s;
+} 

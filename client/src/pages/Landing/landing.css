@@ -1,0 +1,39 @@
+.landing-background {
+  /* background-image: url(img/landingpic2.jpg); */
+  width: 100%;
+}
+
+#alley-art {
+  font-family: "Major Mono Display", monospace;
+  color: green;
+  text-shadow: 2px 2px #b4b5a1;
+}
+
+.landing {
+  height: 450px;
+  width: 100%;
+  background-color: rgb(255, 255, 255, 0.4);
+  filter: alpha(opacity=80);
+}
+
+.btn {
+  width: 400px;
+  height: 75px;
+  margin: 0 1% 0 0;
+  background-color: hsl(39, 100%, 50%, 0.9);
+	color: black;
+	z-index: 0;
+}
+
+.button-box {
+  display: inline-flex;
+}
+
+.landing-button {
+	margin-top: 7%;
+}
+
+p {
+  width: 80%;
+  margin: 0 auto;
+}

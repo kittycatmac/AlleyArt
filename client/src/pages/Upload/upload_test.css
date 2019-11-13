@@ -1,0 +1,56 @@
+.uploadForm {
+	background-image: url(./images/mikky.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 25px;
+	opacity: .75;
+	padding: 3%;
+}
+
+.uploadBtn {
+	width: 100%;
+}
+
+.card-frame {
+	margin: 0 0 0 20%;
+	height: 100%;
+	width: 80%;
+	border: 3px solid black;
+	box-shadow: 2px 7px 7px black;
+	background-color: rgb(0,0,0,0.2);
+	z-index: 0;
+}
+
+.title-upload {
+	text-align: center;
+	font-size: 25px;
+	margin-top: -2%;
+	color: green;
+	font-weight: bold;
+	text-shadow: 2px 2px 5px black;
+}
+
+p {
+	font-size: 15px;
+}
+
+h1 {
+	color: white;
+}
+h5 {
+	margin-left: 15%;
+}
+
+label {
+	color: white;
+}
+
+
+#input_text {
+	background: rgb(0, 0, 0, 0.1);
+	color: white;
+}
+#textarea1 {
+	background: rgb(0, 0, 0, 0.1);
+	color: white;
+}

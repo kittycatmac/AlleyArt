@@ -1,0 +1,13 @@
+.display-block {
+	display: block;
+}
+
+.display-none {
+	display: none;
+}
+
+.mapModal{
+	background-color:#f3f2ef;
+	height: 365px;
+	z-index: 1;
+}

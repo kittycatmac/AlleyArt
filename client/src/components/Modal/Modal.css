@@ -1,0 +1,53 @@
+.modal {
+  background: white;
+  height: 450px;
+  position: fixed;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 60%;
+}
+
+.select {
+  font-family: "Ubuntu", sans-serif;
+	margin: 0 auto;
+	padding: 2%;
+}
+
+.select-title {
+  margin: 30px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 35px;
+  text-shadow: 2px 2px #af2b16;
+}
+
+.display-block {
+  display: block;
+}
+
+.display-none {
+  display: none;
+}
+
+.preview {
+  margin: 50px;
+}
+
+#imgPreview {
+  height: 300px;
+}
+
+input[type="password"] {
+  font: small-caption;
+  font-size: 16px;
+}
+
+.modal-label {
+  color: green;
+  font-size: 18px;
+}
+
+.button-login {
+	margin: 0 auto;
+	width: 400px;
+}

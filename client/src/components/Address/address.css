@@ -1,0 +1,37 @@
+.address {
+	padding: 2%;
+	width: 50%;
+	height: 90%;
+	background-color: rgb(0, 0, 0, 0.97);
+	color: white;
+	z-index: 1;
+}
+
+.submit {
+	background-color: #FFA500;
+	width: 100%;
+}
+
+.label {
+	color: white;
+}
+
+.addressTitle {
+	font-size: 25px;
+}
+
+#address {
+	color: white;
+}
+
+#city {
+	color: white;
+} 
+
+#state {
+	color: white;
+} 
+
+#zip {
+	color: white;
+}

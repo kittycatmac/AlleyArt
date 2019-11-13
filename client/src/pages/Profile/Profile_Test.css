@@ -1,0 +1,47 @@
+.profile {
+	background-color: #B4B5A1;
+	font-family: 'Cuprum', sans-serif;
+	padding: 10px 35px 15px 35px;
+	font-size: 17px;
+	opacity: .8;
+	margin-top: 3%;
+	filter: alpha(opacity=50);
+}
+	
+.name {
+	font-size: 35px;
+	text-align: center;
+	margin: 0;
+}
+
+.upload-btn-wrapper {
+	position: relative;
+	overflow: hidden;
+	display: inline-block;
+	text-align: center;
+}
+
+.upload-btn-wrapper input[type=file] {
+	font-size: 100px;
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 0;
+}
+
+.commentBox {
+	float: left;
+	overflow: auto;
+}
+
+#form {
+	width: 50%;
+	overflow: auto;
+	margin: 0 auto;
+}
+
+#title-artp {
+	font-family: 'Major Mono Display', monospace;
+	text-align: center;
+	text-shadow: 2px 2px green;
+}
